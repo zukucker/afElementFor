@@ -4,9 +4,8 @@
     <label lang="de">afElement</label>
     <label lang="en">afElement</label>
     <version>1.0.0</version>
-    <copyright>(c) by Gerd Seitz GmbH</copyright>
+    <copyright>(c) by Alexander Fröhling</copyright>
     <license>proprietary</license>
-    <link>https://www.gerd-seitz.de</link>
     <author>Alexander Fröhling</author>
 
     <compatibility minVersion="5.2.0" />
